@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded',function(){
         this.difficulty = null;
         this.settings = {
             el             : null,
-            image          : 'https://magento-1219677-4337323.cloudwaysapps.com/media/wysiwyg/1NMHC_MasterPlan.jpg',
+            image          : 'https://raw.githubusercontent.com/Ashutoshya/NMHC_Puzzle_Game/main/2NMHC_MasterPlan.jpg',
             fullImg        : null,
             numcolumns     : 5,
             numrows        : 5,
