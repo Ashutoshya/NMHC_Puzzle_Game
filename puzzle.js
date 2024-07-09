@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded',function(){
         this.difficulty = null;
         this.settings = {
             el             : null,
-            image          : 'https://ashutoshya.github.io/NMHC_MasterPlanImage/2NMHC_MasterPlan.jpg',
+            image          : 'https://github.com/Ashutoshya/NMHC_Puzzle_Game/blob/main/2NMHC_MasterPlan.jpg?raw=true',
             fullImg        : null,
             numcolumns     : 5,
             numrows        : 5,
